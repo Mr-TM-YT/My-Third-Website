@@ -1,0 +1,209 @@
+bun
+bun c
+bun --version
+bun init
+bun run dev
+bun run index.ts
+ls
+nvim .
+nvim ~/.config/nvim/lua/custom/configs/lspconfig.lua
+nvim .
+ls
+cd HelloWorldFlakeHTML
+ls
+nix develop -c zsh
+ls
+nvim index.html
+ls
+nvim .
+nvim ~/.config/nvim/lua/custom/configs/lspconfig.lua
+nvim index.html
+nvim style.css
+where index.html
+pwd
+nvim index.html
+exit
+bun c help
+ls
+bun c sveltekit
+bun c svelte
+bun c react
+exit
+ls
+cd "Learn HTML+CSS"
+ls
+vim .
+nix develop -c zsh
+ls
+exit
+nix develop --impure -c zsh 
+lw
+ls
+vim .
+codium .
+exit
+exit
+nix develop --impure -c zsh 
+ls
+exit
+ls
+vim .
+nix develop --impure -c zsh
+vim .
+codium .
+exi
+exit
+exit
+nix develop --impure -c zsh
+nix develop --impure -c zsh
+codium .
+exit
+exit
+nix develop --impure -c zsh
+ls
+nix develop -c zsh
+vim .
+html-languageserver
+exit
+exit
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+prettier
+exit
+exit
+vim .
+prettier
+exit
+tmux
+ls
+live-server
+exit
+exit
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+exit
+nix develop -c zsh
+vim.
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+vim .
+live-server .
+vim .
+nix develop -c zsh
+vim .
+exit
+exit
+vim flake.nix
+nix develop -c zsh
+nvim .
+cd ../
+z learn
+nix develop -c zsh
+exit
+exit
+nix develop -c zsh
+vim .
+nix develop -c zsh
+vim .
+live-server .
+mv * HTML-Chapter
+ls
+touch index.html
+live-server .
+exit
+nvim .
+vim .
+live-server .
+exit
+exit
+vim flake.nix
+nix develop -c zsh
+vim .
+exit
+vim .
+live-server .
+exit
+exit
+cd nvim
+vim .
+nix develop -c zsh
+vim .
+live-server .
+exit
+exit
+exit
+vim .
+nix develop -c zsh
+vim .
+exit
+nix develop -c zsh
+nix devleop -c zsh
+nix develop -c zsh
+nvim .
+live-server .
+hx .
+nvim .
+hx .
+vim .
+exit
+exit
+exit
+exit
+nix develop -c zsh
+exit
+exijt
+exit
+ls
+vim .
+ls
+exit
+nix develop -c zsh
+live-server .
+nix develop -c zsh
+exit
+vim .
+live-server .
+exit
+exit
+exit
+exit
+nix develop -c zsh
+hx .
+hx --health html
+vim .
+live-server .
+exit
+exit
+cd ../
+nix develop -c zsh
+vim .
+live-server .
+exit
+live-server .
+exit
+: 1706614613:0;live-server .
+: 1706616233:0;echo "# My-Third-Website" >> README.md\
+git init\
+git add .\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Mr-TM-YT/My-Third-Website.git\
+git push -u origin main
+: 1706616299:0;git clone git@github.com:Mr-TM-YT/My-Third-Website.git
+: 1706616380:0;git add .

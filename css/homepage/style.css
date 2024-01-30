@@ -1,0 +1,64 @@
+header {
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Main */
+#example-text {
+  font-style: italic;
+}
+/* #example-text::first-letter { */
+/*   font-size: 4rem; */
+/*   font-weight: bold; */
+/* } */
+
+#example-text a {
+  color: inherit;
+  text-decoration: none;
+  cursor: default;
+}
+
+#example-img {
+  float: right;
+  width: 30%;
+  height: 430px;
+  opacity: 0.3;
+  transition-duration: 300ms;
+}
+#example-img:hover {
+  opacity: 1;
+}
+
+/* About us */
+#about-us-text {
+  color: white;
+  line-height: 1.6;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+#link-to-portfolio-site {
+  color: hsl(139 57% 68%);
+}
+#link-to-portfolio-site:hover {
+  color: hsl(172 67% 65%);
+  transition-duration: 200ms;
+}
+#link-to-portfolio-site:visited {
+  color: hsl(172 67% 65%);
+}
+/* About us & Footer */
+
+footer p {
+  color: white;
+  line-height: 1.6;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+footer p span {
+  color: lightgreen;
+}

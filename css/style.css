@@ -1,0 +1,64 @@
+/* General Stuff */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: hsl(158 24% 7% / 100%);
+  margin: 0;
+}
+
+.header {
+  color: white;
+}
+
+.quote {
+  width: 60%;
+  color: hsl(0 0% 100% / 81%);
+  padding: 7px 0 2px 6px;
+  background-color: hsl(0 0% 18%);
+  border-left: solid 3px hsl(0 0% 100% / 81%);
+  font-size: 1.3em;
+  box-shadow: 2px 3px 5px hsl(1 14% 14% / 81%);
+  border-radius: 2.5px;
+  text-transform: capitalize;
+  margin-left: 10px;
+}
+
+.normal-text {
+  color: white;
+  line-height: 1.6;
+  text-transform: capitalize;
+}
+.big-first-letter::first-letter {
+  display: inline-block;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.reset-link {
+  text-decoration: none;
+  color: white;
+}
+
+.clear {
+  clear: both;
+}
+
+@media screen and (max-width: 450px) and (max-height: 915px) {
+  .container {
+    margin: 4px;
+  }
+}
+
+.container {
+  margin: 8px;
+}
+
+::selection {
+  background-color: hsl(160 72% 36%);
+}
+
+/* Header */
