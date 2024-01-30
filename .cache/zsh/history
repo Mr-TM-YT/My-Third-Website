@@ -207,3 +207,9 @@ git remote add origin https://github.com/Mr-TM-YT/My-Third-Website.git\
 git push -u origin main
 : 1706616299:0;git clone git@github.com:Mr-TM-YT/My-Third-Website.git
 : 1706616380:0;git add .
+: 1706616389:0;git cm -m "Initial Commit"
+: 1706616393:0;git push origin main
+: 1706617379:0;live-server .
+: 1706617447:0;git add .
+: 1706617476:0;live-server .
+: 1706617487:0;git add .

@@ -4,17 +4,19 @@ nav {
   width: 100vw;
   position: sticky;
   top: 0;
-  padding: 1.2rem;
+  padding: 1.1rem;
   background-color: hsl(157 36% 15% / 100%);
   text-align: center;
   border: 2px hsl(156, 18.1%, 16.3%) solid;
   border-radius: 10px;
   box-shadow: 2px 2px 5px hsl(120 40% 14%);
   z-index: 99999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .nav-item {
-  float: left;
   width: 25%;
   font-size: 1.4em;
 }
